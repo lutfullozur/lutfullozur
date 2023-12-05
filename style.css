@@ -1,0 +1,173 @@
+{
+    font-weight: 200;
+    margin: 0;
+}
+body{
+    font-family: "Raleway",sans-serif;
+}
+#o1{
+    color: red; background-color: rgba(211, 211, 211, 0.503); 
+    border: none; font-size: 25px;
+    height: 52px;
+    width: 130px;
+    display: flex;
+}
+#o2{
+    font-size:20px; padding-right: 15px;
+    position: relative; top: 12px;
+    margin-left: 13px;
+}
+#o3{
+    position: relative; top: 9px;
+}
+#o1:hover{
+    background-color: red;
+    color: white;
+}
+#o4{
+    background-image: url(image/london2.jpg);
+    margin-left: 9px;
+    position: relative; top: 1px;
+}
+#o5{
+    margin: auto; position: relative; top: -482px; 
+    width: 950px; height: 200px; background-color: white; 
+    border: none;
+}
+#o6{
+    width: 950px; position: relative; top: -481px; 
+    background-color: black; border: none; 
+    margin: auto; height: 25px;
+}
+#o7{
+    position: relative; top: 0px; 
+    position: absolute; left: 0px;
+    height: 40px; width: 100px; 
+    background-color: red; border: none; 
+    color: white; font-size: 16px;
+}
+#o8{
+    position: relative; top: 0px;
+    position: absolute; left: 100px;
+    height: 40px; width: 100px; 
+    background-color: black; border: none; 
+    color: white; font-size: 16px;
+}
+#o9{
+    position: relative; top: 0px;
+    position: absolute; left: 200px;
+    height: 40px; width: 100px; 
+    background-color: black; border: none; 
+    color: white; font-size: 16px;
+}
+#o7:hover,#o8:hover,#o9:hover{
+    background-color: lightgrey;
+    color: black;
+}
+#o10{
+    width: 120px; background-color:white; 
+    color:black; border: none; height: 35px;
+    margin-top: 18px; font-size: 15px;   
+}
+#o10:hover{
+    background-color: lightgray;
+}
+#o11{
+    margin-left: 539px; width: 501px; 
+    background-color: white; 
+    border: none; position: relative; top: -183px;
+}
+#o12{
+    width: 501px; background-color: white; 
+    border: none; position: relative; top: -4px;
+}
+#o13{
+    margin-left: 230px; position: relative; top: -508px;
+}
+#o14{
+    margin-left: 230px; position: relative; top: -230px;
+}
+#o15{
+    color: white; position: relative; top: -320px; margin-left: 828px;
+}
+#o16{
+    color: white; position: relative; top: -503px; margin-left: 828px;
+}
+#o17{
+    color: white; position: relative; top: -275px; margin-left: 558px;
+}
+#o18{
+    color: white; position: relative; top: -459px; margin-left: 558px;
+}
+#o19{
+    color: white; position: relative; top: -230px; margin-left: 18px;
+}
+#o20{
+    margin-left: 810px; position: relative; top: -194px;
+}
+#o21{
+    margin-left: 10px; position: relative; top: -207px;
+}
+#o22{
+    margin-left: -259px;
+}
+#o23{
+    margin-left: 10px; position: relative; top: -207px;
+}
+#o24{
+    padding-right: 15px;
+}
+#o25{
+    margin-left: 5px; margin-top: 3px;
+}
+#o26{
+    margin-left: 435px;
+}
+#o27{
+    margin-top: 5px;
+}
+#o28{
+    width: 455px; height: 35px; border: 1px solid lightgray; font-size: 15px;
+}
+#o29{
+    margin-left: 10px; width: 455px; height: 35px; border: 1px solid lightgray; font-size: 15px;
+}
+#o30{
+    width: 180px; background-color: rgb(85, 85, 85); color: white; border: none; height: 35px; margin-top: 18px; font-size: 15px;
+}
+#o31{
+    width: 1040px; margin-left: 230px; position: relative; top: -650px; background-color: black; border: none; color: white; opacity: 0.5;
+}
+#o32{
+    margin-left: 10px;
+}
+#o33{
+    height: 40px; width: 100px; 
+    background-color: red; border: none; 
+    color: white; font-size: 16px;
+}
+#o33:hover{
+    background-color: lightgray;
+    color: black;
+}
+#o34{
+    width: 1020px; height: 40px; border: none; font-size: 16px;
+}
+#o31:hover{
+    opacity: 1;
+}
+#o35{
+    margin-left: 230px; position: relative; top: -590px;
+}
+#o36{
+    width: 1020px; height: 50px; border: none; font-size: 16px;   
+}
+#o37{
+    height: 50px; width: 190px; 
+    background-color: black; border: none; 
+    color: white; font-size: 16px;
+}
+#o37:hover{
+    background-color: lightgray;
+    color: black;
+}
